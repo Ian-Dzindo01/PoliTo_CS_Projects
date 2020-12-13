@@ -1,0 +1,9 @@
+Rasim;Dinner;560;21.10.2012.
+Hamza;Conference;340;05.06.2013.
+Ismar;Lodging;200;01.01.2002.
+John;Conference;150;02.03.2008.
+Kelemendi;Dinner;230;05.05.2007.
+Zijad;Lodging;220;04.02.2011.
+Kenan;Lodging;600;03.10.2014.
+Ernes;Dinner;760;11.11.2018.
+Irman;Conference;200;12.12.2019.
