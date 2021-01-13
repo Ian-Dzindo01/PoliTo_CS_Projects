@@ -1,0 +1,4 @@
+Problem Statement:
+Determine the number of unique words contained in a text document. For example, the nursery rhyme “Mary had a little lamb” contains 57 unique words.
+Your task is to write a program that reads a text document and determines the number of
+unique words in it.
