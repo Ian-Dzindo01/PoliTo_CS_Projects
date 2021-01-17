@@ -2,7 +2,7 @@
 
 from collections import Counter
 
-text = open('text.txt', 'r').read()
+
 
 bad_chars = [';', ':', '!', "*", "'", '.', ',', '!', '?', '"', '(', ')']
 
@@ -12,5 +12,8 @@ for i in bad_chars:
     text = text.replace(i, '')
 
 d1 = Counter(text.split())
+
 print(d1)
+
+
 
